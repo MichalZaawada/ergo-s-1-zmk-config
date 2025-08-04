@@ -24,12 +24,12 @@
             //                                                         | END  |         | PGDN |
 
             bindings = <
-&kp ESCAPE      &kp N1        &kp N2        &kp N3                &kp N4                 &kp N5                                                              &kp N6  &kp N7            &kp N8             &kp N9         &kp N0         &kp BACKSLASH
-&kp TAB         &kp Q         &kp W         &kp E                 &kp R                  &kp T                                                               &kp Y   &kp U             &kp I              &kp O          &kp P          &kp BACKSPACE
-&kp LCTRL       &kp A         &kp S         &kp D                 &kp F                  &kp G                                                               &kp H   &kp J             &kp K              &kp L          &kp SEMI       &kp SQT
-&kp LEFT_SHIFT  &kp Z         &kp X         &kp C                 &kp V                  &kp B          &kp EQUAL  &kp SLASH    &kp HOME   &kp END           &kp N   &kp M             &kp COMMA          &kp PERIOD     &kp SLASH      &kp RIGHT_SHIFT
-                &kp LEFT_GUI  &kp LEFT_ALT  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS          &mo 1  &kp SPACE  &kp PLUS     &kp PG_UP  &kp ENTER  &mo 2          &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp RIGHT_ALT  &kp RIGHT_WIN
-                                                                                                                   &kp MINUS    &kp PG_DN
+&kp ESCAPE      &kp N1        &kp N2    &kp N3                 &kp N4    &kp N5                                                              &kp N6  &kp N7    &kp N8     &kp N9      &kp N0         &kp BACKSLASH
+&kp TAB         &kp Q         &kp W     &kp E                  &kp R     &kp T                                                               &kp Y   &kp U     &kp I      &kp O       &kp P          &kp BACKSPACE
+&kp LCTRL       &kp A         &kp S     &kp D                  &kp F     &kp G                                                               &kp H   &kp J     &kp K      &kp L       &kp SEMI       &kp SQT
+&kp LEFT_SHIFT  &kp Z         &kp X     &kp C                  &kp V     &kp B          &kp EQUAL  &kp SLASH    &kp HOME   &kp END           &kp N   &kp M     &kp COMMA  &kp PERIOD  &kp SLASH      &kp RIGHT_SHIFT
+                &kp LEFT_GUI  &kp LPAR  &kp RIGHT_PARENTHESIS  &kp LALT          &mo 1  &kp SPACE  &kp PLUS     &kp PG_UP  &kp ENTER  &mo 2          &kp RALT  &kp LBKT   &kp RBKT    &kp RIGHT_WIN
+                                                                                                   &kp MINUS    &kp PG_DN
             >;
         };
 
